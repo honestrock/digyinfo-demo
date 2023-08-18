@@ -1,0 +1,30 @@
+@import "hotel.css";
+body {
+    margin: 0;
+    background: #f9f9f9;
+}
+
+.border-b {
+    border-bottom: 1px solid lightgray;
+}
+
+input {
+    border: lightgray;
+    min-height: 15px;
+    padding: 10px;
+    font-size: 16px;
+    @apply text-black;
+    @apply font-sans;
+}
+
+input:focus-visible {
+    outline: none !important;
+}
+
+.navbar {
+    background: white
+}
+a {
+    color: inherit !important;
+    text-decoration: none !important;
+}

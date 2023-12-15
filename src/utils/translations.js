@@ -1,5 +1,6 @@
 export const _TRANSLATIONS = {
     TR: {
+        spa: 'SPA',
         search: 'Ara',
         select_language: 'Dil Seçiniz',
         restaurants: 'Restoranlar',
@@ -11,6 +12,7 @@ export const _TRANSLATIONS = {
         room_information: 'Oda Bilgilendirme'
     },
     EN: {
+        spa: 'SPA',
         search: 'Search',
         select_language: 'Select Language',
         restaurants: 'Restaurants',
@@ -22,6 +24,7 @@ export const _TRANSLATIONS = {
         room_information: 'Room Information'
     },
     DE: {
+        spa: 'SPA',
         search: 'Suche',
         select_language: 'Sprache auswählen',
         restaurants: 'Restaurants',
@@ -33,6 +36,7 @@ export const _TRANSLATIONS = {
         room_information: 'Zimmerinformationen'
     },
     RU: {
+        spa: 'СПА',
         search: 'Поиск',
         select_language: 'Выбрать язык',
         restaurants: 'Рестораны',

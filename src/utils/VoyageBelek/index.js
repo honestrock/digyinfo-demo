@@ -64,5 +64,21 @@ export const VoyageBelek = {
 
             }
         },
+        {
+            id: 4,
+            key: 'spa',
+            icon: 'spa',
+            link: {
+                url: '/info/4',
+                target: '_self'
+            },
+            detail: {
+                tr: 'https://drive.google.com/file/d/1ifTGdQ39miT3QJIKFCNWILl6OQMDt40_/preview',
+                en: 'https://drive.google.com/file/d/1ifTGdQ39miT3QJIKFCNWILl6OQMDt40_/preview',
+                ru: 'https://drive.google.com/file/d/1ifTGdQ39miT3QJIKFCNWILl6OQMDt40_/preview',
+                de: 'https://drive.google.com/file/d/1ifTGdQ39miT3QJIKFCNWILl6OQMDt40_/preview',
+
+            }
+        },
     ]
 }
